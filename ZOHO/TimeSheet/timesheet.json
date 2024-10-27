@@ -1,0 +1,51 @@
+{
+  "timelogs": {
+    "total_log_hours": "9:00",
+    "tasklogs": [
+      {
+        "notes": "DMC",
+        "owner_id": "60033705759",
+        "link": { "self": { "url": "https://projectsapi.zoho.in/restapi/portal/60033706418/projects/260467000000040021/tasks/260467000000040204/logs/260467000000042015/" } },
+        "last_modified_date": "10-22-2024",
+        "log_date_long": 1729621799000,
+        "is_parent": false,
+        "sub_task_level": "0",
+        "last_modified_time_long": 1729602980375,
+        "added_by": {
+          "zpuid": "260467000000034003",
+          "name": "Ayush Jadham",
+          "zuid": 60033705759
+        },
+        "added_via": "api",
+        "id": 260467000000042015,
+        "task_list": {
+          "name": "UX/UI creation",
+          "id": 260467000000040201
+        },
+        "log_date_format": "10-22-2024 11:59:59 PM",
+        "created_time_long": 1729602980375,
+        "hours": 9,
+        "owner_name": "Ayush Jadham",
+        "created_time_format": "10-22-2024 06:46:20 PM",
+        "is_sub_task": false,
+        "minutes": 0,
+        "total_minutes": 540,
+        "approver_name": "Ayush Jadham",
+        "approval_status": "Approved",
+        "end_time": "06:00 PM",
+        "bill_status": "Billable",
+        "start_time": "09:00 AM",
+        "last_modified_time_format": "10-22-2024 06:46:20 PM",
+        "task": {
+          "name": "Overall look and feel",
+          "id_string": "260467000000040204",
+          "id": 260467000000040204
+        },
+        "log_date": "10-22-2024",
+        "id_string": "260467000000042015",
+        "created_date": "10-22-2024",
+        "hours_display": "09:00"
+      }
+    ]
+  }
+}

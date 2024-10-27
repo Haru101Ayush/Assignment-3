@@ -1,0 +1,33 @@
+﻿https://accounts.zoho.com/oauth/v2/auth?response_type=code&client_id=1000.1MLKAS4J200XQPGYNTORCLLY341CKW&scope=ZohoProjects.portals.READ,ZohoProjects.portals.CREATE,ZohoProjects.portals.UPDATE,ZohoProjects.portals.DELETE,
+ZohoProjects.projects.READ,ZohoProjects.projects.CREATE,ZohoProjects.projects.UPDATE,ZohoProjects.projects.DELETE,
+ZohoProjects.tasks.READ,ZohoProjects.tasks.CREATE,ZohoProjects.tasks.UPDATE,ZohoProjects.tasks.DELETE,
+ZohoProjects.milestones.READ,ZohoProjects.milestones.CREATE,ZohoProjects.milestones.UPDATE,ZohoProjects.milestones.DELETE,
+ZohoProjects.bugs.READ,ZohoProjects.bugs.CREATE,ZohoProjects.bugs.UPDATE,ZohoProjects.bugs.DELETE,
+ZohoProjects.forums.READ,ZohoProjects.forums.CREATE,ZohoProjects.forums.UPDATE,ZohoProjects.forums.DELETE,
+ZohoProjects.timesheets.READ,ZohoProjects.timesheets.CREATE,ZohoProjects.timesheets.UPDATE,ZohoProjects.timesheets.DELETE,
+ZohoProjects.users.READ,ZohoProjects.users.CREATE,ZohoProjects.users.UPDATE,ZohoProjects.users.DELETE&redirect_uri=https://www.google.com&access_type=offline
+
+
+https://accounts.zoho.com/oauth/v2/token?grant_type=authorization_code&code=1000.xxxxxxd34d.xxxxxxx909a&client_id=1000.xxxxxxxxxxHF2C6H&redirect_uri=https://www.zylker.com/callback&client_secret=xxxxxxxxx4f4f7a
+
+
+{
+    "access_token": "1000.c60e97d505ae838a23af16f76a5da37d.e1dfd7366e0070c45943a0c1e930f77c",
+    "refresh_token": "1000.0960ace891e2feecc5bfe87352b243ad.62efd89505f3c033f3a07f31d8624e1a",
+    "scope": "ZohoProjects.portals.READ ZohoProjects.portals.CREATE ZohoProjects.portals.UPDATE ZohoProjects.portals.DELETE ZohoProjects.projects.READ ZohoProjects.projects.CREATE ZohoProjects.projects.UPDATE ZohoProjects.projects.DELETE ZohoProjects.tasks.READ ZohoProjects.tasks.CREATE ZohoProjects.tasks.UPDATE ZohoProjects.tasks.DELETE ZohoProjects.milestones.READ ZohoProjects.milestones.CREATE ZohoProjects.milestones.UPDATE ZohoProjects.milestones.DELETE ZohoProjects.bugs.READ ZohoProjects.bugs.CREATE ZohoProjects.bugs.UPDATE ZohoProjects.bugs.DELETE ZohoProjects.forums.READ ZohoProjects.forums.CREATE ZohoProjects.forums.UPDATE ZohoProjects.forums.DELETE ZohoProjects.timesheets.READ ZohoProjects.timesheets.CREATE ZohoProjects.timesheets.UPDATE ZohoProjects.timesheets.DELETE ZohoProjects.users.READ ZohoProjects.users.CREATE ZohoProjects.users.UPDATE ZohoProjects.users.DELETE",
+    "api_domain": "https://www.zohoapis.in",
+    "token_type": "Bearer",
+    "expires_in": 3600
+}
+
+
+System.InvalidOperationException
+  HResult=0x80131509
+  Message=An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set.
+  Source=System.Net.Http
+  StackTrace:
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at NetworkServices.<GetAsync>d__4`1.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NetworkServices.cs:line 45
+   at Zoho_Migration.NativePMS.Executer.<SubTaskMapper>d__9.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NativePMS\Executer.cs:line 135
+   at Zoho_Migration.NativePMS.Executer.<Mapper>d__5.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NativePMS\Executer.cs:line 80

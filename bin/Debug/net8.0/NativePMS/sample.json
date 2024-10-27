@@ -1,0 +1,69 @@
+﻿{
+  "project": {
+    
+
+    "tags": [ "string" ], // List of project tags
+
+    "customFields": { // Custom fields for project-level metadata
+      "key1": "value1",
+      "key2": "value2"
+    },
+
+    "tasks": [
+      {
+        "type": "string", // Task type (e.g., feature, bug)
+
+        "priority": "string", // Task priority (e.g., high, medium, low)
+
+
+        "startDate": "YYYY-MM-DD", // Task start date
+        "dueDate": "YYYY-MM-DD", // Task due date
+        "timeEstimate": "string", // Estimated time (in hours or story points)
+        "timeSpent": "string", // Time spent on the task
+        "resolution": "string", // Resolution of the task (if applicable)
+
+        "comments": [ // Comments on the task
+          {
+            "id": "string",
+            "author": {
+              "id": "string",
+              "name": "string",
+              "email": "string"
+            },
+            "text": "string", // Comment content
+            "timestamp": "YYYY-MM-DDTHH:MM:SS" // Timestamp of comment creation
+          }
+        ],
+
+        "attachments": [ // Attachments linked to the task
+          {
+            "id": "string",
+            "fileName": "string", // Name of the attached file
+            "fileType": "string", // Type of file (e.g., .pdf, .docx)
+            "fileSize": "number", // Size of the file in KB
+            "uploadDate": "YYYY-MM-DDTHH:MM:SS", // When the file was uploaded
+            "url": "string" // Download or view URL
+          }
+        ],
+        "timelogs": [ // Timelogs for the task
+          {
+            "id": "string",
+            "user": {
+              "id": "string",
+              "name": "string",
+              "email": "string"
+            },
+            "timeSpent": "string", // Time logged for the task (in hours)
+            "dateLogged": "YYYY-MM-DDTHH:MM:SS" // Date when the time was logged
+          }
+        ],
+        "customFields": { // Custom fields for task-specific data
+          "key1": "value1",
+          "key2": "value2"
+        }
+      }
+    ],
+
+    // hello
+  }
+}

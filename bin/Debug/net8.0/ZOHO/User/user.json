@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "profile_type": "1",
+      "role": "admin",
+      "portal_role_name": "Administrator",
+      "active": true,
+      "zpuid": "260467000000034003",
+      "project_profile_id": "260467000000034436",
+      "profile_id": "260467000000034436",
+      "name": "Ayush Jadham",
+      "portal_profile_name": "Portal Owner",
+      "portal_role_id": "260467000000034005",
+      "id": "60033705759",
+      "email": "ayush.jadham@techextensor.com",
+      "chat_access": true,
+      "is_resource": false
+    }
+  ]
+}

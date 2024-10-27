@@ -1,0 +1,6 @@
+@Zoho_Migration_HostAddress = http://localhost:5032
+
+GET {{Zoho_Migration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

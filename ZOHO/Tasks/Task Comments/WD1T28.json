@@ -1,0 +1,121 @@
+﻿{
+  "start_date_long": 1731931331343,
+  "is_comment_added": true,
+  "end_date_format": "11-19-2024 05:32:11 PM",
+  "added_via": "web",
+  "last_updated_time_long": 1729665565578,
+  "is_forum_associated": false,
+  "details": {
+    "owners": [
+      {
+        "zpuid": "260467000000034003",
+        "full_name": "Ayush Jadham",
+        "name": "Ayush Jadham",
+        "last_name": "Jadham",
+        "id": "60033705759",
+        "first_name": "Ayush",
+        "email": "ayush.jadham@techextensor.com"
+      }
+    ]
+  },
+  "id": 260467000000040234,
+  "created_time": "10-21-2024",
+  "work": "-",
+  "custom_fields": [],
+  "start_date_format": "11-18-2024 05:32:11 PM",
+  "isparent": true,
+  "work_type": "work_hrs_per_day",
+  "completed": false,
+  "task_followers": {
+    "FOLUSERS": "60033705759,60033816529",
+    "FOLLOWERSIZE": 2,
+    "FOLLOWERS": [
+      {
+        "FPHOTO": "https://contacts.zoho.in/file?fs=thumb&exp=600&ID=60033705759",
+        "FOLLOWERID": "60033705759",
+        "FNAME": "Ayush Jadham"
+      },
+      {
+        "FPHOTO": "https://contacts.zoho.in/file?fs=thumb&exp=600&ID=60033816529",
+        "FOLLOWERID": "60033816529",
+        "FNAME": "haru kuro"
+      }
+    ]
+  },
+  "priority": "None",
+  "created_by": "60033705759",
+  "tags": [
+    {
+      "name": "devops Ayushhh",
+      "id": "260467000000041015",
+      "color_class": "bg-tag5"
+    },
+    {
+      "name": "blackopsss",
+      "id": "260467000000041019",
+      "color_class": "bg-tag7"
+    }
+  ],
+  "last_updated_time": "10-23-2024",
+  "name": "Distribute Content widely - Maintain a simple yet effective main page",
+  "is_docs_assocoated": true,
+  "tasklist": {
+    "name": "Content preparation",
+    "id_string": "260467000000040231",
+    "id": "260467000000040231"
+  },
+  "last_updated_time_format": "10-23-2024 12:09:25 PM",
+  "billingtype": "Billable",
+  "order_sequence": 27,
+  "status": {
+    "name": "In Progress",
+    "id": "260467000000013001",
+    "type": "open",
+    "color_code": "#08aeea"
+  },
+  "end_date": "11-19-2024",
+  "milestone_id": "260467000000040129",
+  "link": {
+    "timesheet": {
+      "url": "https://projectsapi.zoho.in/restapi/portal/60033706418/projects/260467000000040021/tasks/260467000000040234/logs/"
+    },
+    "web": {
+      "url": "https://projects.zoho.in/portal/ayushdotjadhamtechextensordotcom#taskdetail/260467000000040021/260467000000040231/260467000000040234"
+    },
+    "self": {
+      "url": "https://projectsapi.zoho.in/restapi/portal/60033706418/projects/260467000000040021/tasks/260467000000040234/"
+    },
+    "subtask": {
+      "url": "https://projectsapi.zoho.in/restapi/portal/60033706418/projects/260467000000040021/tasks/260467000000040234/subtasks/"
+    }
+  },
+  "description": "<div>Up load 5 episodes of spongbob top website<br /></div>",
+  "created_by_zpuid": "260467000000034003",
+  "work_form": "standard_work",
+  "end_date_long": 1732017731343,
+  "duration": "2",
+  "created_by_email": "ayush.jadham@techextensor.com",
+  "key": "WD1-T28",
+  "start_date": "11-18-2024",
+  "created_person": "Ayush Jadham",
+  "created_time_long": 1729508531343,
+  "is_reminder_set": false,
+  "is_recurrence_set": false,
+  "created_time_format": "10-21-2024 04:32:11 PM",
+  "created_by_full_name": "Ayush Jadham",
+  "subtasks": true,
+  "duration_type": "days",
+  "percent_complete": "80",
+  "GROUP_NAME": {
+    "ASSOCIATED_TEAMS": {
+      "AnyTeam": "Not Associated"
+    },
+    "ASSOCIATED_TEAMS_COUNT": 0,
+    "IS_TEAM_UNASSIGNED": true
+  },
+  "id_string": "260467000000040234",
+  "log_hours": {
+    "non_billable_hours": "0.0",
+    "billable_hours": "0.0"
+  }
+},

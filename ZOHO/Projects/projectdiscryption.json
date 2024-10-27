@@ -1,0 +1,146 @@
+{
+  "projects": [
+    {
+      "is_strict": "no",
+      "bug_count": {
+        "closed": 0,
+        "open": 2
+      },
+      "owner_id": "60033705759",
+      "bug_client_permission": "allexternal",
+      "taskbug_prefix": "WD1",
+      "start_date_long": 1729449000000,
+      "updated_date_long": 1729508531040,
+      "show_project_overview": true,
+      "task_count": {
+        "closed": 18,
+        "open": 80
+      },
+      "updated_date_format": "10-21-2024 04:32:11 PM",
+      "bug_defaultview": "6",
+      "id": 260467000000040021,
+      "is_chat_enabled": false,
+      "is_sprints_project": false,
+      "owner_name": "Ayush Jadham",
+      "created_date_long": 1729508531023,
+      "created_by": "Ayush Jadham",
+      "created_date_format": "10-21-2024 04:32:11 PM",
+      "comments_count": 0,
+      "profile_id": 260467000000034436,
+      "is_webtab_available": false,
+      "name": "Website Development",
+      "updated_by": "Ayush Jadham",
+      "updated_by_id": "60033705759",
+      "created_by_id": "60033705759",
+      "updated_by_zpuid": 260467000000034003,
+      "bug_prefix": "WD1-I",
+      "task_defaultview": {
+        "name": "All Open",
+        "id": "260467000000028003"
+      },
+      "status": "active",
+      "end_date": "01-17-2025",
+      "none_milestone_id": "260467000000000038",
+      "project_percent": "18",
+      "role": "admin",
+      "IS_BUG_ENABLED": true,
+      "link": {
+        "activity": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/activities/"
+        },
+        "document": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/documents/"
+        },
+        "forum": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/forums/"
+        },
+        "timesheet": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/logs/"
+        },
+        "task": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/tasks/"
+        },
+        "folder": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/folders/"
+        },
+        "milestone": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/milestones/"
+        },
+        "bug": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/bugs/"
+        },
+        "self": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/"
+        },
+        "tasklist": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/tasklists/"
+        },
+        "event": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/events/"
+        },
+        "user": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/users/"
+        },
+        "status": {
+          "url": "https://projectsapi.zoho.in/restapi/portal/ayushdotjadhamtechextensordotcom/projects/260467000000040021/statuses/"
+        }
+      },
+      "created_by_zpuid": 260467000000034003,
+      "custom_status_id": "260467000000005089",
+      "milestone_count": {
+        "closed": 0,
+        "open": 4
+      },
+      "end_date_long": 1737138599000,
+      "custom_status_name": "Active",
+      "owner_zpuid": "260467000000034003",
+      "is_client_assign_bug": "false",
+      "billing_status": "Billable",
+      "currency": "USD",
+      "key": "AY-2",
+      "start_date": "10-21-2024",
+      "owner_email": "ayush.jadham@techextensor.com",
+      "custom_status_color": "#2cc8ba",
+      "currency_symbol": "$",
+      "enabled_tabs": [
+        "bugs",
+        "users",
+        "dashboard",
+        "projectfeed",
+        "tasks",
+        "forums",
+        "calendar",
+        "reports",
+        "documents",
+        "milestones",
+        "timesheet"
+      ],
+      "is_public": "no",
+      "id_string": "260467000000040021",
+      "created_date": "10-21-2024",
+      "updated_date": "10-21-2024",
+      "cascade_setting": {
+        "date": false,
+        "logHours": false,
+        "plan": true,
+        "percentage": false,
+        "workHours": false
+      },
+      "layout_details": {
+        "task": {
+          "is_private": true,
+          "name": "Website Development",
+          "id": "260467000000040001"
+        },
+        "bug": {
+          "name": "Website Development",
+          "id": "260467000000040043"
+        },
+        "project": {
+          "name": "Standard Layout",
+          "id": "260467000000005008"
+        }
+      }
+    }
+  ]
+}
