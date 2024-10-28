@@ -20,7 +20,7 @@ namespace Zoho_Migration.ZOHO.Projects
 
             string token = await auth.TokenAsync();
             NetworkServices _networkServices = new NetworkServices(token);
-            dynamic data = await _networkServices.GetAsync<dynamic>($"{Project_Endpoint}/restapi/portal/60033706418/projects/260467000000037043/");
+            dynamic data = await _networkServices.GetAsync<dynamic>($"{Project_Endpoint}/restapi/portal/60033706418/projects/");
             dynamic response = JsonConvert.DeserializeObject(data.ToString());
 
             if (response["projects"] != null && response != null)

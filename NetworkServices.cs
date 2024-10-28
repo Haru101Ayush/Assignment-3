@@ -1,8 +1,6 @@
-﻿using System;
-using System.Net.Http;
+﻿
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 public class NetworkServices
 {
@@ -26,18 +24,19 @@ public class NetworkServices
     {
         response.EnsureSuccessStatusCode();
         var json = await response.Content.ReadAsStringAsync();
-        try
-        {
-            var result = JsonSerializer.Deserialize<T>(json);
-            return result;
-        }
-        catch (JsonException ex)
-        {
-            Console.WriteLine($"Error deserializing JSON: {ex.Message}");
-            Console.WriteLine($"Invalid JSON: {json}");
-            throw ex;
-        }
-        //return JsonSerializer.Deserialize<T>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+        var result = JsonSerializer.Deserialize<T>(json, _jsonOptions);
+        return result;
+    }
+
+    private readonly JsonSerializerOptions _jsonOptions = new()
+    {
+        PropertyNameCaseInsensitive = true
+    };
+
+    public async Task<string> GetSubTask(string url)
+    {
+        var response = await _httpClient.GetAsync(url);
+        return await response.Content.ReadAsStringAsync();
     }
 
     public async Task<T> GetAsync<T>(string url)

@@ -31,3 +31,20 @@ System.InvalidOperationException
    at NetworkServices.<GetAsync>d__4`1.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NetworkServices.cs:line 45
    at Zoho_Migration.NativePMS.Executer.<SubTaskMapper>d__9.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NativePMS\Executer.cs:line 135
    at Zoho_Migration.NativePMS.Executer.<Mapper>d__5.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NativePMS\Executer.cs:line 80
+
+   System.Text.Json.JsonException
+  HResult=0x80131500
+  Message=The JSON value could not be converted to System.String. Path: $ | LineNumber: 0 | BytePositionInLine: 1.
+  Source=Zoho_Migration
+  StackTrace:
+   at NetworkServices.<HandleResponse>d__3`1.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NetworkServices.cs:line 38
+   at NetworkServices.<GetAsync>d__4`1.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NetworkServices.cs:line 46
+   at Zoho_Migration.NativePMS.Executer.<SubTaskMapper>d__9.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NativePMS\Executer.cs:line 158
+   at Zoho_Migration.NativePMS.Executer.<Mapper>d__5.MoveNext() in C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\NativePMS\Executer.cs:line 83
+
+  This exception was originally thrown at this call stack:
+    [External Code]
+
+Inner Exception 1:
+InvalidOperationException: Cannot get the value of a token type 'StartObject' as a string.
+

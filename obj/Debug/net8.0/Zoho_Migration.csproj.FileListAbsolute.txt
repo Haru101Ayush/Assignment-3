@@ -38,3 +38,4 @@ C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\obj\Debug\net8.0\refin
 C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\obj\Debug\net8.0\Zoho_Migration.pdb
 C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\obj\Debug\net8.0\Zoho_Migration.genruntimeconfig.cache
 C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\obj\Debug\net8.0\ref\Zoho_Migration.dll
+C:\Users\TE-66\source\repos\Zoho_Migration\Zoho_Migration\obj\Debug\net8.0\Zoho_Migration.sourcelink.json

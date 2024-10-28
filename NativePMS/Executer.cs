@@ -155,14 +155,14 @@ namespace Zoho_Migration.NativePMS
         private async Task<List<Subtask>> SubTaskMapper(string url)
         {
             var token = Client_Cred.code;
-            var json = await new NetworkServices(token).GetAsync<string>(url);
+            var json = await new NetworkServices(token).GetSubTask(url);
             var response = Newtonsoft.Json.JsonConvert.DeserializeObject<SubTasklist>(json);
             return response.Tasks.Select(subtask => new Subtask
             {
                 Id = subtask.Id,
                 Title = subtask.Name,
                 Status = subtask.Status,
-                Assignees = (List<Assignee>)TaskMapper(subtask.TaskFollowers.Followers),
+                Assignees = TaskMapper(subtask.TaskFollowers.Followers).ToList(),
             }).ToList();
         }
 

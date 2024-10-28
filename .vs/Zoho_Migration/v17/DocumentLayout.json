@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\nativepms\\executer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:nativepms\\executer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\zoho\\timesheet\\timesheetmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:zoho\\timesheet\\timesheetmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\zoho\\projects\\projectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:zoho\\projects\\projectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\zoho\\projects\\dataobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:zoho\\projects\\dataobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\networkservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:networkservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\nativepms\\sample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:nativepms\\sample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\nativepms\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:nativepms\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\git_ignore\\garbage.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:git_ignore\\garbage.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\zoho\\projects\\allprojects.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:zoho\\projects\\allprojects.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|c:\\users\\te-66\\source\\repos\\zoho_migration\\zoho_migration\\zoho\\tasks\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AFC97-3633-45B0-B0E8-C138383846F5}|Zoho_Migration.csproj|solutionrelative:zoho\\tasks\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeSheetMapper.cs",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\TimeSheet\\TimeSheetMapper.cs",
+              "RelativeDocumentMoniker": "ZOHO\\TimeSheet\\TimeSheetMapper.cs",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\TimeSheet\\TimeSheetMapper.cs",
+              "RelativeToolTip": "ZOHO\\TimeSheet\\TimeSheetMapper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:42:16.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sample.json",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NativePMS\\sample.json",
+              "RelativeDocumentMoniker": "NativePMS\\sample.json",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NativePMS\\sample.json",
+              "RelativeToolTip": "NativePMS\\sample.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T07:36:08.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NativePMS\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "NativePMS\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NativePMS\\ProjectDTO.cs",
+              "RelativeToolTip": "NativePMS\\ProjectDTO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:36:00.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subtask.cs",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Tasks\\Subtask.cs",
+              "RelativeDocumentMoniker": "ZOHO\\Tasks\\Subtask.cs",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Tasks\\Subtask.cs",
+              "RelativeToolTip": "ZOHO\\Tasks\\Subtask.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:07:20.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectMapper.cs",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Projects\\ProjectMapper.cs",
+              "RelativeDocumentMoniker": "ZOHO\\Projects\\ProjectMapper.cs",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Projects\\ProjectMapper.cs",
+              "RelativeToolTip": "ZOHO\\Projects\\ProjectMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:20:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Executer.cs",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NativePMS\\Executer.cs",
+              "RelativeDocumentMoniker": "NativePMS\\Executer.cs",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NativePMS\\Executer.cs",
+              "RelativeToolTip": "NativePMS\\Executer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAswLAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:45:39.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "garbage.txt",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\Git_Ignore\\garbage.txt",
+              "RelativeDocumentMoniker": "Git_Ignore\\garbage.txt",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\Git_Ignore\\garbage.txt",
+              "RelativeToolTip": "Git_Ignore\\garbage.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-28T05:44:55.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkServices.cs",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NetworkServices.cs",
+              "RelativeDocumentMoniker": "NetworkServices.cs",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\NetworkServices.cs",
+              "RelativeToolTip": "NetworkServices.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:34:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "allprojects.json",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Projects\\allprojects.json",
+              "RelativeDocumentMoniker": "ZOHO\\Projects\\allprojects.json",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Projects\\allprojects.json",
+              "RelativeToolTip": "ZOHO\\Projects\\allprojects.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T05:29:13.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataObjects.cs",
+              "DocumentMoniker": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Projects\\DataObjects.cs",
+              "RelativeDocumentMoniker": "ZOHO\\Projects\\DataObjects.cs",
+              "ToolTip": "C:\\Users\\TE-66\\source\\repos\\Zoho_Migration\\Zoho_Migration\\ZOHO\\Projects\\DataObjects.cs",
+              "RelativeToolTip": "ZOHO\\Projects\\DataObjects.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:26:02.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

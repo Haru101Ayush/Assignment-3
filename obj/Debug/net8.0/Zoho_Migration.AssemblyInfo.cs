@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zoho_Migration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1623477d58757165197b22762a4daf48577b36c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zoho_Migration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zoho_Migration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
